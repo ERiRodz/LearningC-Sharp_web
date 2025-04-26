@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 1</div><div class="chapter_title">: Introduction to Programming</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">What is C#?</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">C# is a programming language that needs a framework (Micorsoft.NET) in order to get all its task/applications working. From Microsoft.Net it gets the <a class="link_text" href="../5_terminology.html#Common Language Runtime (CLR)" target="_blank">CLR</a> and <a class="link_text" href="../5_terminology.html#Class" target="_blank">classes</a> to use in the code. Depending on the kind of software you want to create, is the platform you need to have.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">To start a C# program in VS</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">To create a new <a class="link_text" href="../5_terminology.html#Project" target="_blank">project</a> in VS, File>New>Project... or Ctrl+Shift+N. Once you created it, the <a class='link_text' href='../5_terminology.html#Solution' target="_blank">solution</a> will be created as well.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">In the solution we have...</h2>
+            <ul id="topic-content">
+              <li>
+                <img src="../../images/The Solution.png" alt="Describing the solution for a C# project" width="78%"/>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">In the code we have...</h2>
+            <ul id="topic-content">
+              <li>
+                <img src="../../images/The CSharp code.png" alt="Describing the C# code" width="100%"/>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Some hotkeys for VS...</h2>
+            <ul id="topic-content">
+              <li class="content keys"><kbd>Ctrl</kbd> + <kbd>F5</kbd> : Runs the code.</li>
+              <li class="content keys"><kbd>F5</kbd> : Debug mode (ussually needs a breakpoint).</li>
+              <li class="content keys"><kbd>Shift</kbd> + <kbd>F5</kbd> : Stops debug mode.</li>
+              <li class="content keys"><kbd>F10</kbd> : (In debug mode) Next line.</li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Main()</h2>
+            <ul id="topic-content">
+              <p class="content">In order to turn the C# code (.cs) into an executable (.exe) file during the <a class='link_text' href='../5_terminology.html#Compiling Process' target="_blank">compiling process</a>, at least one class in it needs to have the Main() method.</p>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">System.DateTime.Now</h2>
+            <ul id="topic-content">
+              <p class="content">Property of the System library that returns the current day and time.</p>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_1.4" name="1" value="4">Exercise 1.4</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_1.8" name="1" value="8">Exercise 1.8</button></li>
+              <li class="topic-btn" onclick="exerActive(2)"><button class="exercise-btn" id="exercise-btn_1.10" name="1" value="10">Exercise 1.10</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="#" style="visibility: hidden;">Previous</a>
+        <a href="chp2.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

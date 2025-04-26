@@ -1,0 +1,6 @@
+C:\Users\2700x\source\repos\Exercise_7.17\Merge Sort Algorithm\bin\Debug\Merge Sort Algorithm.exe.config
+C:\Users\2700x\source\repos\Exercise_7.17\Merge Sort Algorithm\bin\Debug\Merge Sort Algorithm.exe
+C:\Users\2700x\source\repos\Exercise_7.17\Merge Sort Algorithm\bin\Debug\Merge Sort Algorithm.pdb
+C:\Users\2700x\source\repos\Exercise_7.17\Merge Sort Algorithm\obj\Debug\Merge Sort Algorithm.csprojAssemblyReference.cache
+C:\Users\2700x\source\repos\Exercise_7.17\Merge Sort Algorithm\obj\Debug\Merge Sort Algorithm.exe
+C:\Users\2700x\source\repos\Exercise_7.17\Merge Sort Algorithm\obj\Debug\Merge Sort Algorithm.pdb

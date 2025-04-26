@@ -1,0 +1,6 @@
+C:\Users\2700x\source\repos\Exercise_7.8\Selection Sort\bin\Debug\Selection Sort.exe.config
+C:\Users\2700x\source\repos\Exercise_7.8\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\2700x\source\repos\Exercise_7.8\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\2700x\source\repos\Exercise_7.8\Selection Sort\obj\Debug\Selection Sort.csprojAssemblyReference.cache
+C:\Users\2700x\source\repos\Exercise_7.8\Selection Sort\obj\Debug\Selection Sort.exe
+C:\Users\2700x\source\repos\Exercise_7.8\Selection Sort\obj\Debug\Selection Sort.pdb

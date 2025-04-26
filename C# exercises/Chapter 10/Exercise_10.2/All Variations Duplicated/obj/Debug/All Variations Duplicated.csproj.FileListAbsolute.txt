@@ -1,0 +1,12 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\bin\Debug\All Variations Duplicated.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\bin\Debug\All Variations Duplicated.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\bin\Debug\All Variations Duplicated.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\obj\Debug\All Variations Duplicated.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\obj\Debug\All Variations Duplicated.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\obj\Debug\All Variations Duplicated.pdb
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\bin\Debug\All Variations Duplicated.exe.config
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\bin\Debug\All Variations Duplicated.exe
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\bin\Debug\All Variations Duplicated.pdb
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\obj\Debug\All Variations Duplicated.csprojAssemblyReference.cache
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\obj\Debug\All Variations Duplicated.exe
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.2\All Variations Duplicated\obj\Debug\All Variations Duplicated.pdb

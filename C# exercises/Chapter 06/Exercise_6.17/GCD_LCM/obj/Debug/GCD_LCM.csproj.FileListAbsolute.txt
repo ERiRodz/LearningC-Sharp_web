@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.17\GCD_LCM\bin\Debug\GCD_LCM.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.17\GCD_LCM\bin\Debug\GCD_LCM.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.17\GCD_LCM\bin\Debug\GCD_LCM.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.17\GCD_LCM\obj\Debug\GCD_LCM.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.17\GCD_LCM\obj\Debug\GCD_LCM.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.17\GCD_LCM\obj\Debug\GCD_LCM.pdb

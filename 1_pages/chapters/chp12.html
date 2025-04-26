@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 12</div><div class="chapter_title">: Exception Handling</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Exceptions</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">In general, a component of a C# program is intended to do an specific task; it will have a functionality. As a rule of thumb, this component will do what it was created for OR throw an exception. In the second scenario, the component fails to complete the task that it was created for. Thus, an exception is thrown because the component is not intended to behave outside of its functionality. The exception thrown has the capacity to details what was wrong (why and where in some cases).</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exception Handling</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">When an exception is thrown, the .NET Framework is expected to do something. This "something" is what is called exception handling, nut it is not 100% automatically. The programer needs to set up the handling process in the code.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Using exceptions and catching them</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">When the programer knows of the usual scenarios where the code's component will fail prior to the implementation of the code, he can wrap up those scenarios (exceptions) and handling them. The way this is implemented is by a try-catch blocks. In the try block, the code's component is wrapped up; in the catch block the handling part. It is important to mention that an exception could be thrown dua a possible scenaro or scenarios. The programer could creat multiple catch blocks (handling processes) depending on the type of the exception.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">try-finally</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">The try-finally blocks is a "more complete" handling process. In the case an exception is been thrown and a resource was used, this resource needs to be released. So, it could happen that in the catch block the resource was not released. In this case we have a problem! The finally block will be always executed! Thus, any released line should be in it!</p>
+                <br />
+                <p class="content"> The important method in IDisposable interface is Dispose(). The main thing we need to know about the method is that it releases the resources of the class that implements it. In cases when resources are streams, readers or files releasing resources can be done using the Dispose() method from IDisposable interface, which calls their Close() method. This method closes them and releases their resources.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">using</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">"using" is the shorter form of any try-finally segment that uses a resource.</p>
+                <br />
+                <p class="content">The types of exceptions are packed up in the class Exception. This class contains all types of exceptions. There are two main classes (sub-groups): ApplicationException and SystemException. The programer will defined the catch block based on the type of the exception. The .NET Framework gives a trace whenever an exception is thrown. If the exception is not well defined it will be more difficult to pint it down in the given trace.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Advantages of Using Exceptions</h2>
+            <ul id="topic-content">
+              <li>
+                <h3 class="sub-topic-name">Separation of the Exception Handling Code</h3>
+                <p class="content">With this the programer avoid the "spagheti" code where the not intended behavior of the code's component in handled in between the written code. The problem with the "spagheti" code basically is readability. In it the logic of the code is interrupted with the handling's logic.</p>
+              </li>
+              <li>
+                <h3 class="sub-topic-name">Information of the problem</h3>
+                <p class="content">Give information of the problem: what causes it, where and why) using the call-stack (trace).</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Two main classes: SystemException and ApplicationException</h2>
+            <ul id="topic-content">
+              <li>
+                <h3 class="sub-topic-name">class SystemException</h3>
+                <p class="content">SystemException</p>
+              </li>
+              <li>
+                <h3 class="sub-topic-name">class ApplicationException</h3>
+                <p class="content">ApplicationException</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_12.7" name="12" value="7">Exercise 12.7</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_12.8" name="12" value="8">Exercise 12.8</button></li>
+              <li class="topic-btn" onclick="exerActive(2)"><button class="exercise-btn" id="exercise-btn_12.9" name="12" value="9">Exercise 12.9</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp11.html">Previous</a>
+        <a href="chp13.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

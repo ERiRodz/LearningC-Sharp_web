@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 2</div><div class="chapter_title">: Types and Variables</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Data Types</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content"> Data types are divided into two main sets: value and reference. These are divided by primitive types (see table 2.1). <strong>Value</strong> type data is stored in the program stack and directly contains its value. The amount of memory that a value type data uses is fixed, and it is determined by the primitive type. The memory allocated for a value type data is released when the program exits its ragne (scope). <strong>Reference</strong> type data keep a reference (an address) in the stack that points to the dynamic memory (heap) where the actual value is stored. The size allocated for a reference in the heap could change dynamically during the program execution. The reference only points to an object of the same primitive type. An object is a special primitive data type. It is the parent of all types in the .NET Framework; it can takes values of any other type. One of the biggest characteristic of a reference data is that can be assigned to null. Like mentioned above, the data types are divided into primitive types. These are: integer, real floating-point, real floating-point with decimal precision, bolean, character, string, and object. Each data uses an amount of space in the memory, this space unit is bit.</p>
+                <br/>
+              </li>
+              <li>
+                <table class="table smooth">
+                  <thead>
+                    <tr>
+                      <th>Primitive</th>
+                      <th>Data</th>
+                      <th>Default</th>
+                      <th>Literal</th>
+                      <th>Type</th>
+                      <th colspan="2" style="text-align: center;">Size</th>
+                      <th>Min</th>
+                      <th>Max</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td class="Primitive" rowspan="8">Integer</td>
+                      <td class="Data">sbyte</td>
+                      <td class="Default">0</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size">8-bit</td>
+                      <td class="Capacity">2<sup>8</sup></td>
+                      <td class="Min">-128</th>
+                      <td class="Max">127</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">byte</td>
+                      <td class="Default">0</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size">8-bit</td>
+                      <td class="Capacity">2<sup>8</sup></td>
+                      <td class="Min">0</th>
+                      <td class="Max">255</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">short</td>
+                      <td class="Default">0</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size">16-bit</td>
+                      <td class="Capacity">2<sup>16</sup></td>
+                      <td class="Min">-32768</th>
+                      <td class="Max">32767</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">ushort</td>
+                      <td class="Default">0</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size">16-bit</td>
+                      <td class="Capacity">2<sup>16</sup></td>
+                      <td class="Min">0</th>
+                      <td class="Max">65535</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">int</td>
+                      <td class="Default">0</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size">32-bit</td>
+                      <td class="Capacity">2<sup>32</sup></td>
+                      <td class="Min">-2<sup>31</sup></th>
+                      <td class="Max">2<sup>31</sup>-1</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">uint</td>
+                      <td class="Default">0u or 0U</td>
+                      <td class="Literals">u, U</td>
+                      <td class="Family">Val</td>
+                      <td class="Size">32-bit</td>
+                      <td class="Capacity">2<sup>32</sup></td>
+                      <td class="Min">0</th>
+                      <td class="Max">2<sup>32</sup>-1</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">long</td>
+                      <td class="Default">0l or 0L</td>
+                      <td class="Literals">l, L</td>
+                      <td class="Family">Val</td>
+                      <td class="Size">64-bit</td>
+                      <td class="Capacity">2<sup>64</sup></td>
+                      <td class="Min">-2<sup>63</sup></th>
+                      <td class="Max">2<sup>63</sup>-1</td>
+                    </tr>
+                    <tr>
+                      <td class="Data">ulong</td>
+                      <td class="Default">0u or 0U</td>
+                      <td class="Literals">u, U</td>
+                      <td class="Family">Val</td>
+                      <td class="Size">64-bit</td>
+                      <td class="Capacity">2<sup>64</sup></td>
+                      <td class="Min">0</th>
+                      <td class="Max">2<sup>64</sup>-1</td>
+                    </tr>
+                    <tr>
+                      <td class="Primitive" rowspan="2">Real floating-point types</td>
+                      <td class="Data">float</td>
+                      <td class="Default">0.0f or 0.0F</td>
+                      <td class="Literals">f, F</td>
+                      <td class="Family">Val</td>
+                      <td class="Size">32-bit</td>
+                      <td class="Capacity">2<sup>32</sup></td>
+                      <td class="Min">±1.5×10<sup>-45</sup></th>
+                      <td class="Max">±3.4×10<sup>38</sup></td>
+                    </tr>
+                    <tr>
+                      <td class="Data">double</td>
+                      <td class="Default">0.0d or 0.0D</td>
+                      <td class="Literals">d, D</td>
+                      <td class="Family">Val</td>
+                      <td class="Size">64-bit</td>
+                      <td class="Capacity">2<sup>64</sup></td>
+                      <td class="Min">±5.0×10<sup>-324</sup></th>
+                      <td class="Max">±1.7×10<sup>308</sup></td>
+                    </tr>
+                    <tr>
+                      <td class="Primitive">Real type with decimal precision</td>
+                      <td class="Data">decimal</td>
+                      <td class="Default">0.0m or 0.0M</td>
+                      <td class="Literals">m, M</td>
+                      <td class="Family">Val</td>
+                      <td class="Size">128-bit</td>
+                      <td class="Capacity">2<sup>128</sup></td>
+                      <td class="Min">±1.0×10<sup>-28</sup></th>
+                      <td class="Max">±7.9×10<sup>28</sup></td>
+                    </tr>
+                    <tr>
+                      <td class="Primitive">Bolean</td>
+                      <td class="Data">bool</td>
+                      <td class="Default">false</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size"></td>
+                      <td class="Capacity">2</td>
+                      <td class="Poss_Values" colspan="2">Two possible values: true and false</sup></th>
+                    </tr>
+                    <tr>
+                      <td class="Primitive">Character</td>
+                      <td class="Data">char</td>
+                      <td class="Default">'\u0000'</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Val</td>
+                      <td class="Size"></td>
+                      <td class="Capacity"></td>
+                      <td class="Min">'\u0000'</sup></th>
+                      <td class="Max">'\uffff'</sup></td>
+                    </tr>
+                    <tr>
+                      <td class="Primitive">Object</td>
+                      <td class="Data">object</td>
+                      <td class="Default">null</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Ref</td>
+                      <td class="Size"></td>
+                      <td class="Capacity"></td>
+                      <td class="Min"></th>
+                      <td class="Max"></td>
+                    </tr>
+                    <tr>
+                      <td class="Primitive">String</td>
+                      <td class="Data">string</td>
+                      <td class="Default">null</td>
+                      <td class="Literals"></td>
+                      <td class="Family">Ref</td>
+                      <td class="Size"></td>
+                      <td class="Capacity"></td>
+                      <td class="Min"></sup></th>
+                      <td class="Max"></sup></td>
+                    </tr>
+                  </tbody>
+                  <tfoot>
+                    <td colspan="9" style="background-color: white; text-align: center; border: 0px;">Table 2.1</td>
+                  </tfoot>
+                </table>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Decimal Accuracy</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content" style="text-indent: 0px;">Precision of the Real Types<br>
+                  <code style="color: blue; padding-left: 25px;">decimal</code>: precision of 28 to 29 decimal places<br>
+                  <code style="color: blue; padding-left: 25px;">double</code>: precision of 15 to 16 decimal digits<br>
+                  <code style="color: blue; padding-left: 25px;">float</code>: precision of seven decimal places</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Nullables Types</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content"> Property that allows value type data to lack a value (null). This means that a value type data is converted into a reference type data. Null means that the data is not pointing to an object in the heap. To declare a nullbable value use the <code style="color: blue;">?</code> operator after the type declaration. For example:<br>
+                  <code style="margin-left: 25px; color: blue;">int?</code><br>
+                  <code style="margin-left: 25px; color: blue;">long?</code><br>
+                Some properties and methods to use with a nullable:<br>
+                  <div class="content" style="margin-left: 25px; text-indent: 0px;">
+                    <code style="color: blue;">.Value</code>: returns the stored value (can't be null)<br>
+                    <code style="color: blue;">.HasValue</code>: checks whether it has a value or not (null); returns flase for null.<br>
+                    <code style="color: blue;">.GetValueOrDefault()</code>: returns the stored value when it is not null, default value otherwise.<br>
+                  </div></p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Escaping Sequences</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content"> The escape operator is <code style="color: blue;">/</code>, and it is used in front of special text that cannot be printed on the console. For quoted strings preceded by <code style="color: blue;">@</code>, the rules of the escape character do not apply because everything within the <code style="color: blue;">""</code> will be printed as is. The only character that needs to use an escape character is the the double-quote. The way to do this is by using double-quote twice in a row.</p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp1.html">Previous</a>
+        <a href="chp3.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

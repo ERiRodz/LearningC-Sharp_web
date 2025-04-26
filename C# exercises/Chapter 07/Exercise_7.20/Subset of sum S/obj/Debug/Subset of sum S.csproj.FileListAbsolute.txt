@@ -1,0 +1,12 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\bin\Debug\Subset of sum S.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\bin\Debug\Subset of sum S.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\bin\Debug\Subset of sum S.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\obj\Debug\Subset of sum S.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\obj\Debug\Subset of sum S.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\obj\Debug\Subset of sum S.pdb
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\bin\Debug\Subset of sum S.exe.config
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\bin\Debug\Subset of sum S.exe
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\bin\Debug\Subset of sum S.pdb
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\obj\Debug\Subset of sum S.csprojAssemblyReference.cache
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\obj\Debug\Subset of sum S.exe
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.20\Subset of sum S\obj\Debug\Subset of sum S.pdb

@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.20\Extracts Date in mm.dd.yyyy\bin\Debug\Extracts Date in mm.dd.yyyy.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.20\Extracts Date in mm.dd.yyyy\bin\Debug\Extracts Date in mm.dd.yyyy.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.20\Extracts Date in mm.dd.yyyy\bin\Debug\Extracts Date in mm.dd.yyyy.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.20\Extracts Date in mm.dd.yyyy\obj\Debug\Extracts Date in mm.dd.yyyy.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.20\Extracts Date in mm.dd.yyyy\obj\Debug\Extracts Date in mm.dd.yyyy.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.20\Extracts Date in mm.dd.yyyy\obj\Debug\Extracts Date in mm.dd.yyyy.pdb

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 5</div><div class="chapter_title">: Condotional Statements</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Comparing Reference Types</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">When comparing reference types varibales, the addresses they hold are compared. The program checks if both references point to the same location in the memory (same object in the heap). So the comparison operator (==) does not compare the content of the objects but rather checks if they point at the same location in the memory. This is true for all objects types except for strings objects. The comparison operator compares the strings by their values and not by the addresses they point. The size comprasions are not appicable for object type variables.</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_5.5" name="5" value="5">Exercise 5.5</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_5.9" name="5" value="9">Exercise 5.9</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp4.html">Previous</a>
+        <a href="chp6.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

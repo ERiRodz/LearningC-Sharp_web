@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.2\AppendTwoIntoAThirdText\bin\Debug\AppendTwoIntoAThirdText.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.2\AppendTwoIntoAThirdText\bin\Debug\AppendTwoIntoAThirdText.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.2\AppendTwoIntoAThirdText\bin\Debug\AppendTwoIntoAThirdText.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.2\AppendTwoIntoAThirdText\obj\Debug\AppendTwoIntoAThirdText.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.2\AppendTwoIntoAThirdText\obj\Debug\AppendTwoIntoAThirdText.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.2\AppendTwoIntoAThirdText\obj\Debug\AppendTwoIntoAThirdText.pdb

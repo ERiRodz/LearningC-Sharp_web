@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.10\MatrixOfNums\bin\Debug\MatrixOfNums.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.10\MatrixOfNums\bin\Debug\MatrixOfNums.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.10\MatrixOfNums\bin\Debug\MatrixOfNums.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.10\MatrixOfNums\obj\Debug\MatrixOfNums.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.10\MatrixOfNums\obj\Debug\MatrixOfNums.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.10\MatrixOfNums\obj\Debug\MatrixOfNums.pdb

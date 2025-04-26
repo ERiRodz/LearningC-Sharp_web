@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.13\ChangeBitAtP\bin\Debug\ChangeBitAtP.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.13\ChangeBitAtP\bin\Debug\ChangeBitAtP.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.13\ChangeBitAtP\bin\Debug\ChangeBitAtP.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.13\ChangeBitAtP\obj\Debug\ChangeBitAtP.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.13\ChangeBitAtP\obj\Debug\ChangeBitAtP.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.13\ChangeBitAtP\obj\Debug\ChangeBitAtP.pdb

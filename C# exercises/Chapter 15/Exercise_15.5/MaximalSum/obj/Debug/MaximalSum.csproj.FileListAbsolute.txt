@@ -1,0 +1,7 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\bin\Debug\MaximalSum.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\bin\Debug\MaximalSum.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\bin\Debug\MaximalSum.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\obj\Debug\MaximalSum.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\obj\Debug\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\obj\Debug\MaximalSum.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.5\MaximalSum\obj\Debug\MaximalSum.pdb

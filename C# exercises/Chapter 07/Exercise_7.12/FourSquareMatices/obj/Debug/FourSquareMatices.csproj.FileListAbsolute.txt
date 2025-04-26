@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.12\FourSquareMatices\bin\Debug\FourSquareMatices.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.12\FourSquareMatices\bin\Debug\FourSquareMatices.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.12\FourSquareMatices\bin\Debug\FourSquareMatices.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.12\FourSquareMatices\obj\Debug\FourSquareMatices.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.12\FourSquareMatices\obj\Debug\FourSquareMatices.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.12\FourSquareMatices\obj\Debug\FourSquareMatices.pdb

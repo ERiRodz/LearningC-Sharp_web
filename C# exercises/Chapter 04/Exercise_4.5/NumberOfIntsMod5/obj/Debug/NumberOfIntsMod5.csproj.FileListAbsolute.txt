@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\Exercise_4.5\NumberOfIntsMod5\obj\Debug\NumberOfIntsMod5.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\Exercise_4.5\NumberOfIntsMod5\bin\Debug\NumberOfIntsMod5.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\Exercise_4.5\NumberOfIntsMod5\bin\Debug\NumberOfIntsMod5.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\Exercise_4.5\NumberOfIntsMod5\bin\Debug\NumberOfIntsMod5.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\Exercise_4.5\NumberOfIntsMod5\obj\Debug\NumberOfIntsMod5.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\Exercise_4.5\NumberOfIntsMod5\obj\Debug\NumberOfIntsMod5.pdb

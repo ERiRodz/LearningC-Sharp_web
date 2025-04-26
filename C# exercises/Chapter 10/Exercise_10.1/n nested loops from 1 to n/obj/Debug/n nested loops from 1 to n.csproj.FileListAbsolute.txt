@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.1\n nested loops from 1 to n\bin\Debug\n nested loops from 1 to n.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.1\n nested loops from 1 to n\bin\Debug\n nested loops from 1 to n.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.1\n nested loops from 1 to n\bin\Debug\n nested loops from 1 to n.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.1\n nested loops from 1 to n\obj\Debug\n nested loops from 1 to n.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.1\n nested loops from 1 to n\obj\Debug\n nested loops from 1 to n.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.1\n nested loops from 1 to n\obj\Debug\n nested loops from 1 to n.pdb

@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.7\Only Positive Int to Square\bin\Debug\Only Positive Int to Square.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.7\Only Positive Int to Square\bin\Debug\Only Positive Int to Square.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.7\Only Positive Int to Square\bin\Debug\Only Positive Int to Square.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.7\Only Positive Int to Square\obj\Debug\Only Positive Int to Square.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.7\Only Positive Int to Square\obj\Debug\Only Positive Int to Square.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.7\Only Positive Int to Square\obj\Debug\Only Positive Int to Square.pdb

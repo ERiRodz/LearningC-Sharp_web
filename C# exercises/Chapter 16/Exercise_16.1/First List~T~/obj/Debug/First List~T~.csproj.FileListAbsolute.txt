@@ -1,0 +1,7 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\bin\Debug\First List~T~.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\bin\Debug\First List~T~.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\bin\Debug\First List~T~.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\obj\Debug\First List~T~.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\obj\Debug\First List~T~.csproj.CoreCompileInputs.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\obj\Debug\First List~T~.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.1\First List~T~\obj\Debug\First List~T~.pdb

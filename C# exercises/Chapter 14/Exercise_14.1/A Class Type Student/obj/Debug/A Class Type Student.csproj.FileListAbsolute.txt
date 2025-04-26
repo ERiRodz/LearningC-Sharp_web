@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 14\Exercise_14.1\A Class Type Student\bin\Debug\A Class Type Student.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 14\Exercise_14.1\A Class Type Student\bin\Debug\A Class Type Student.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 14\Exercise_14.1\A Class Type Student\bin\Debug\A Class Type Student.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 14\Exercise_14.1\A Class Type Student\obj\Debug\A Class Type Student.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 14\Exercise_14.1\A Class Type Student\obj\Debug\A Class Type Student.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 14\Exercise_14.1\A Class Type Student\obj\Debug\A Class Type Student.pdb

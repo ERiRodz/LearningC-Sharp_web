@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 11</div><div class="chapter_title">: Creating and Using Objects</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Objects</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">Objects Objects Objects Objects Objects Objects Objects Objects Objects Objects Objects Objects</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_11.1" name="11" value="1">Exercise 11.1</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_11.2" name="11" value="2">Exercise 11.2</button></li>
+              <li class="topic-btn" onclick="exerActive(2)"><button class="exercise-btn" id="exercise-btn_11.4" name="11" value="4">Exercise 11.4</button></li>
+              <li class="topic-btn" onclick="exerActive(3)"><button class="exercise-btn" id="exercise-btn_11.7" name="11" value="7">Exercise 11.7</button></li>
+              <li class="topic-btn" onclick="exerActive(4)"><button class="exercise-btn" id="exercise-btn_11.8" name="11" value="8">Exercise 11.8</button></li>
+              <li class="topic-btn" onclick="exerActive(5)"><button class="exercise-btn" id="exercise-btn_11.9" name="11" value="9">Exercise 11.9</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp10.html">Previous</a>
+        <a href="chp12.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

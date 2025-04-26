@@ -1,0 +1,13 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\bin\Debug\Accesing_to.bin_file.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\bin\Debug\Accesing_to.bin_file.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\bin\Debug\Accesing_to.bin_file.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing to .bin file.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing_to.bin_file.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing_to.bin_file.pdb
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\bin\Debug\Accesing_to.bin_file.exe.config
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\bin\Debug\Accesing_to.bin_file.exe
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\bin\Debug\Accesing_to.bin_file.pdb
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing to .bin file.csprojAssemblyReference.cache
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing to .bin file.csproj.CoreCompileInputs.cache
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing_to.bin_file.exe
+K:\Los Documentos V\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.10\Accesing to .bin file\obj\Debug\Accesing_to.bin_file.pdb

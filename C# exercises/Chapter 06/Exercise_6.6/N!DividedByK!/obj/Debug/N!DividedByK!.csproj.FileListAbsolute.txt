@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.6\N!DividedByK!\bin\Debug\N!DividedByK!.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.6\N!DividedByK!\bin\Debug\N!DividedByK!.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.6\N!DividedByK!\bin\Debug\N!DividedByK!.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.6\N!DividedByK!\obj\Debug\N!DividedByK!.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.6\N!DividedByK!\obj\Debug\N!DividedByK!.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.6\N!DividedByK!\obj\Debug\N!DividedByK!.pdb

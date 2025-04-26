@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.1\CheckEvenOdd\obj\Debug\CheckEvenOdd.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.1\CheckEvenOdd\bin\Debug\CheckEvenOdd.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.1\CheckEvenOdd\bin\Debug\CheckEvenOdd.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.1\CheckEvenOdd\bin\Debug\CheckEvenOdd.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.1\CheckEvenOdd\obj\Debug\CheckEvenOdd.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.1\CheckEvenOdd\obj\Debug\CheckEvenOdd.pdb

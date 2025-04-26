@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.1\Hello Method!\bin\Debug\Hello Method!.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.1\Hello Method!\bin\Debug\Hello Method!.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.1\Hello Method!\bin\Debug\Hello Method!.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.1\Hello Method!\obj\Debug\Hello Method!.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.1\Hello Method!\obj\Debug\Hello Method!.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.1\Hello Method!\obj\Debug\Hello Method!.pdb

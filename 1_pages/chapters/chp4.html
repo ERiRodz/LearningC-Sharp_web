@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 4</div><div class="chapter_title">: Console Input and Output</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Placeholder</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">The methods <code style="color: blue;">Console.Write()</code> and <code style="color: blue;">Console.WriteLine()</code> are defined as follow: <code style="color: blue;">public static void Write("string", object arg0, object arg1, ...)</code><br/>
+                  This brings to its first parameter (the string) the placehorlder <code style="color: blue;">{0}</code>. Placeholdes indicates what object goes in its place in the string by the number between the { }; the number refers to the object's position. Placeholders can be formatted as: <code style="color: blue;">{index[,alignment][:format]}</code><br/>
+                  -index indicates the object<br/>
+                  -alignment: (right) +#; (left) -#; the # indicates the spaces<br/>
+                  -format (see table of specifiers)
+                </p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_4.4" name="4" value="4">Exercise 4.4</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_4.5" name="4" value="5">Exercise 4.5</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp3.html">Previous</a>
+        <a href="chp5.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

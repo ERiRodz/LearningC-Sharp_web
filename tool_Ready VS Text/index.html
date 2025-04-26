@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Ready VS Text</title>
+    <link href="2_styles/style.css" type="text/css" rel="stylesheet">
+  </head>
+
+  <body onload="justPlano()">
+
+    <div id="plano">
+
+      <div id="input-text" class="text smooth" style="background: blue;">
+          <textarea id="inCode" class="code"></textarea>
+      </div>
+
+      <div id="command">
+        <button class="bttCmmnd" type="button" onclick="formatCode()">VS Ready</button>
+        <button class="bttCmmnd" type="button" onclick="copyVsCode()">Copy it</button>
+      </div>
+
+      <div id="output-text" class="text smooth" style="background: green;">
+        <div id="outCode" class="code" style="background: rgba(40, 42, 54, 0.99);">
+          <img src="4_img/full_screen_toggle.png" onclick="fullScrnCode()">
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+
+  <script src="3_js/main.js"></script>
+
+</html>

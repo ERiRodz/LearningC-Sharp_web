@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.3\Last digit's English Name\obj\Debug\Last digit's English Name.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.3\Last digit's English Name\bin\Debug\Last digit's English Name.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.3\Last digit's English Name\bin\Debug\Last digit's English Name.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.3\Last digit's English Name\bin\Debug\Last digit's English Name.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.3\Last digit's English Name\obj\Debug\Last digit's English Name.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.3\Last digit's English Name\obj\Debug\Last digit's English Name.pdb

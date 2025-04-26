@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Mathematical Expressions\Mathematical Expressions\bin\Debug\Mathematical Expressions.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Mathematical Expressions\Mathematical Expressions\bin\Debug\Mathematical Expressions.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Mathematical Expressions\Mathematical Expressions\bin\Debug\Mathematical Expressions.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Mathematical Expressions\Mathematical Expressions\obj\Debug\Mathematical Expressions.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Mathematical Expressions\Mathematical Expressions\obj\Debug\Mathematical Expressions.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Mathematical Expressions\Mathematical Expressions\obj\Debug\Mathematical Expressions.pdb

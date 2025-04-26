@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.15\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.15\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.15\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.15\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.15\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.15\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

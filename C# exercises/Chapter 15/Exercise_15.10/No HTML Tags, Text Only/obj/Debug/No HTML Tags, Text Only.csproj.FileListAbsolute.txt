@@ -1,0 +1,7 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\bin\Debug\No HTML Tags, Text Only.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\bin\Debug\No HTML Tags, Text Only.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\bin\Debug\No HTML Tags, Text Only.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\obj\Debug\No HTML Tags, Text Only.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\obj\Debug\No HTML Tags, Text Only.csproj.CoreCompileInputs.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\obj\Debug\No HTML Tags, Text Only.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.10\No HTML Tags, Text Only\obj\Debug\No HTML Tags, Text Only.pdb

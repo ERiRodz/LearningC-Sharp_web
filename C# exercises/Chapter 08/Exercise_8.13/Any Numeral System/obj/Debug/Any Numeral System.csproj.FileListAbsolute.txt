@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.13\Any Numeral System\bin\Debug\Any Numeral System.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.13\Any Numeral System\bin\Debug\Any Numeral System.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.13\Any Numeral System\bin\Debug\Any Numeral System.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.13\Any Numeral System\obj\Debug\Any Numeral System.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.13\Any Numeral System\obj\Debug\Any Numeral System.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.13\Any Numeral System\obj\Debug\Any Numeral System.pdb

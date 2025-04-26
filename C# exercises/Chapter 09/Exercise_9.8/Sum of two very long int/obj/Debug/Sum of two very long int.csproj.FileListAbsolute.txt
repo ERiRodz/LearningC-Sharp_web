@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.8\Sum of two very long int\bin\Debug\Sum of two very long int.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.8\Sum of two very long int\bin\Debug\Sum of two very long int.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.8\Sum of two very long int\bin\Debug\Sum of two very long int.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.8\Sum of two very long int\obj\Debug\Sum of two very long int.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.8\Sum of two very long int\obj\Debug\Sum of two very long int.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 09\Exercise_9.8\Sum of two very long int\obj\Debug\Sum of two very long int.pdb

@@ -1,0 +1,85 @@
+/*Containers*/
+* {
+margin: 0px;
+padding: 0px;
+}
+
+body{
+  width: 100%;
+}
+
+.smooth {
+  transition: all 0.2s ease-in-out;
+}
+
+#plano {
+  padding: calc(100vh - 850px) 0px;
+  width: 100%;
+}
+
+#input-text, #output-text {
+  display: block;
+  margin: 0px auto;
+  padding: 12px 0px;
+  width: 480px;
+  height: 708px;
+}
+
+#output-text img {
+  position: sticky;
+  top: 93.5%;
+  left: 93%;
+  width: 30px;
+}
+
+#output-text img:hover {
+  filter: brightness(200%);
+}
+
+#command {
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+  width: 80%;
+  height: 125px;
+}
+
+.code {
+  display: block;
+  margin: 16.8px 5%;
+  padding: 0 15px;
+  width: 84%;
+  height: 95%;
+  resize: none;
+  overflow: scroll;
+  font: 400 14px monospace;;
+  white-space: nowrap;
+}
+
+.bttCmmnd {
+  margin: 20px;
+  width: 145px;
+  height: 60px;
+}
+
+@media only screen and (min-width: 1525px) {
+  #input-text, #output-text {
+    width: 600px;
+    padding: 0px;
+  }
+
+  #command {
+    margin: 0px auto;
+    width: 300px;
+    height: 708px;
+  }
+
+  .code {
+    margin: 2.5% auto;
+  }
+
+  .bttCmmnd {
+    display: block;
+    margin: 20px auto;
+  }
+}

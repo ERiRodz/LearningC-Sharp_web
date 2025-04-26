@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.15\Index of the letter in a word\bin\Debug\Index of the letter in a word.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.15\Index of the letter in a word\bin\Debug\Index of the letter in a word.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.15\Index of the letter in a word\bin\Debug\Index of the letter in a word.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.15\Index of the letter in a word\obj\Debug\Index of the letter in a word.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.15\Index of the letter in a word\obj\Debug\Index of the letter in a word.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.15\Index of the letter in a word\obj\Debug\Index of the letter in a word.pdb

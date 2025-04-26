@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.10\First100Sequence\bin\Debug\First100Sequence.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.10\First100Sequence\bin\Debug\First100Sequence.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.10\First100Sequence\bin\Debug\First100Sequence.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.10\First100Sequence\obj\Debug\First100Sequence.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.10\First100Sequence\obj\Debug\First100Sequence.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.10\First100Sequence\obj\Debug\First100Sequence.pdb

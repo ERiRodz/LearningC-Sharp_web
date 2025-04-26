@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 8</div><div class="chapter_title">: Numeral Systems</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Numeral Systems</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">Numeral Systems Numeral Systems Numeral Systems Numeral Systems Numeral Systems</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Any base (numeral system) to decimal representation</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">
+                  <ol class="content-list">
+                    <li>Count the number of digits or letter used to write the value. For example, 1111 (in binomial) has <b>four</b> ones; FA5 (in hexadecimal) uses <b>three</b> symbols (two letters and one five). From left to right, let's use 'n' as the position of the digit or letter used in the value representation being the one at the right most of them the starting position, n = 0 . For example, in FA5 'n' for 'F' is 2 , for 'A' is n = 1 and for '5' is n = 0.</li>
+                    <li>From left to right, multiply the digit or the letter value by the power, determined by the position of the symbol, n, of the base number used un the numeral system. Then, add all the products. For example, FA5 = 15 <span>&#215;</span> 16<sup>2</sup> + 10 <span>&#215;</span> 16<sup>1</sup> + 5 <span>&#215;</span> 16<sup>0</sup> = 4,005</li>
+                  </ol>
+                </p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_8.4" name="8" value="4">Exercise 8.4</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_8.5" name="8" value="5">Exercise 8.5</button></li>
+              <li class="topic-btn" onclick="exerActive(2)"><button class="exercise-btn" id="exercise-btn_8.6" name="8" value="6">Exercise 8.6</button></li>
+              <li class="topic-btn" onclick="exerActive(3)"><button class="exercise-btn" id="exercise-btn_8.7" name="8" value="7">Exercise 8.7</button></li>
+              <li class="topic-btn" onclick="exerActive(4)"><button class="exercise-btn" id="exercise-btn_8.8" name="8" value="8">Exercise 8.8</button></li>
+              <li class="topic-btn" onclick="exerActive(5)"><button class="exercise-btn" id="exercise-btn_8.9" name="8" value="9">Exercise 8.9</button></li>
+              <li class="topic-btn" onclick="exerActive(6)"><button class="exercise-btn" id="exercise-btn_8.13" name="8" value="13">Exercise 8.13</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp7.html">Previous</a>
+        <a href="chp9.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

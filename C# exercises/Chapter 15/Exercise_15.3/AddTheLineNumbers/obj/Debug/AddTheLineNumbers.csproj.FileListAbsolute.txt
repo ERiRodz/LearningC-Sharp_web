@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.3\AddTheLineNumbers\bin\Debug\AddTheLineNumbers.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.3\AddTheLineNumbers\bin\Debug\AddTheLineNumbers.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.3\AddTheLineNumbers\bin\Debug\AddTheLineNumbers.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.3\AddTheLineNumbers\obj\Debug\AddTheLineNumbers.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.3\AddTheLineNumbers\obj\Debug\AddTheLineNumbers.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.3\AddTheLineNumbers\obj\Debug\AddTheLineNumbers.pdb

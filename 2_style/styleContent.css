@@ -1,0 +1,30 @@
+#topic-content, #exercise-list {
+  width: 520px;
+}
+
+#bottom-paper a {
+  visibility: hidden;
+}
+
+/*5_terminology.html -> Alphabet Ribbon*/
+#alphabet {
+  width: 80%;
+  text-align: center;
+}
+
+@media only screen and (min-width: 600px) {
+  #alphabet {
+    width: 100%;
+  }
+}
+
+#alphabet a {
+  color: darkgray;
+  margin: 0 0.8%;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#alphabet a:hover {
+  color: #EC4E20;
+}

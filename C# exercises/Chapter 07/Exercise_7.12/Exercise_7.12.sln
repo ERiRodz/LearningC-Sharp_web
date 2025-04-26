@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSquareMatices", "FourSquareMatices\FourSquareMatices.csproj", "{F67CA5A2-A7A2-4709-8C54-8212ABC978FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67CA5A2-A7A2-4709-8C54-8212ABC978FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67CA5A2-A7A2-4709-8C54-8212ABC978FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67CA5A2-A7A2-4709-8C54-8212ABC978FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67CA5A2-A7A2-4709-8C54-8212ABC978FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CF3C44C-0265-4A50-A389-00A269D05D35}
+	EndGlobalSection
+EndGlobal

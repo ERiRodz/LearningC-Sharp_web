@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.1\Numbers1ToN\obj\Debug\Numbers1ToN.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.1\Numbers1ToN\bin\Debug\Numbers1ToN.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.1\Numbers1ToN\bin\Debug\Numbers1ToN.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.1\Numbers1ToN\bin\Debug\Numbers1ToN.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.1\Numbers1ToN\obj\Debug\Numbers1ToN.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 06\Exercise_6.1\Numbers1ToN\obj\Debug\Numbers1ToN.pdb

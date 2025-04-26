@@ -1,0 +1,13 @@
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\bin\Debug\netcoreapp3.1\Remove the negatives.exe
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\bin\Debug\netcoreapp3.1\Remove the negatives.deps.json
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\bin\Debug\netcoreapp3.1\Remove the negatives.runtimeconfig.json
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\bin\Debug\netcoreapp3.1\Remove the negatives.runtimeconfig.dev.json
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\bin\Debug\netcoreapp3.1\Remove the negatives.dll
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\bin\Debug\netcoreapp3.1\Remove the negatives.pdb
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.csprojAssemblyReference.cache
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.AssemblyInfoInputs.cache
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.AssemblyInfo.cs
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.csproj.CoreCompileInputs.cache
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.dll
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.pdb
+C:\Users\LaLaptop\Los Documentitos\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 16\Exercise_16.5\Remove the negatives\obj\Debug\netcoreapp3.1\Remove the negatives.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.10\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.10\FourDigitNumber\bin\Debug\FourDigitNumber.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.10\FourDigitNumber\bin\Debug\FourDigitNumber.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.10\FourDigitNumber\obj\Debug\FourDigitNumber.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.10\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.10\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

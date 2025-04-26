@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Hexadecimal to Binary\bin\Debug\Hexadecimal to Binary.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Hexadecimal to Binary\bin\Debug\Hexadecimal to Binary.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Hexadecimal to Binary\bin\Debug\Hexadecimal to Binary.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Hexadecimal to Binary\obj\Debug\Hexadecimal to Binary.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Hexadecimal to Binary\obj\Debug\Hexadecimal to Binary.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Hexadecimal to Binary\obj\Debug\Hexadecimal to Binary.pdb

@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.4\Decimal to Binary\bin\Debug\Decimal to Binary.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.4\Decimal to Binary\bin\Debug\Decimal to Binary.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.4\Decimal to Binary\bin\Debug\Decimal to Binary.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.4\Decimal to Binary\obj\Debug\Decimal to Binary.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.4\Decimal to Binary\obj\Debug\Decimal to Binary.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.4\Decimal to Binary\obj\Debug\Decimal to Binary.pdb

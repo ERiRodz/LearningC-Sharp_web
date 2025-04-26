@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.3\ThirdDigitis7\bin\Debug\ThirdDigitis7.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.3\ThirdDigitis7\bin\Debug\ThirdDigitis7.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.3\ThirdDigitis7\bin\Debug\ThirdDigitis7.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.3\ThirdDigitis7\obj\Debug\ThirdDigitis7.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.3\ThirdDigitis7\obj\Debug\ThirdDigitis7.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.3\ThirdDigitis7\obj\Debug\ThirdDigitis7.pdb

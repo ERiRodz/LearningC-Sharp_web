@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.3\Combinations with Duplicates\bin\Debug\Combinations with Duplicates.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.3\Combinations with Duplicates\bin\Debug\Combinations with Duplicates.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.3\Combinations with Duplicates\bin\Debug\Combinations with Duplicates.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.3\Combinations with Duplicates\obj\Debug\Combinations with Duplicates.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.3\Combinations with Duplicates\obj\Debug\Combinations with Duplicates.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\Exercise_10.3\Combinations with Duplicates\obj\Debug\Combinations with Duplicates.pdb

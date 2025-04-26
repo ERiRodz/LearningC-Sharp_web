@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.4\Compare Two Streams\bin\Debug\Compare Two Streams.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.4\Compare Two Streams\bin\Debug\Compare Two Streams.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.4\Compare Two Streams\bin\Debug\Compare Two Streams.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.4\Compare Two Streams\obj\Debug\Compare Two Streams.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.4\Compare Two Streams\obj\Debug\Compare Two Streams.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 15\Exercise_15.4\Compare Two Streams\obj\Debug\Compare Two Streams.pdb

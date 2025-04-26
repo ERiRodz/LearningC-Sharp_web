@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\SubSet of Length 2\SubSet of Length 2\bin\Debug\SubSet of Length 2.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\SubSet of Length 2\SubSet of Length 2\bin\Debug\SubSet of Length 2.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\SubSet of Length 2\SubSet of Length 2\bin\Debug\SubSet of Length 2.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\SubSet of Length 2\SubSet of Length 2\obj\Debug\SubSet of Length 2.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\SubSet of Length 2\SubSet of Length 2\obj\Debug\SubSet of Length 2.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 10\SubSet of Length 2\SubSet of Length 2\obj\Debug\SubSet of Length 2.pdb

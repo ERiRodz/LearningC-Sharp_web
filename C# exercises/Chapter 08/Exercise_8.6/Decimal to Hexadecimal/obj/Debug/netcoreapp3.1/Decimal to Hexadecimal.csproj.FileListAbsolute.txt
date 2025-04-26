@@ -1,0 +1,11 @@
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\bin\Debug\netcoreapp3.1\Decimal to Hexadecimal.exe
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\bin\Debug\netcoreapp3.1\Decimal to Hexadecimal.deps.json
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\bin\Debug\netcoreapp3.1\Decimal to Hexadecimal.runtimeconfig.json
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\bin\Debug\netcoreapp3.1\Decimal to Hexadecimal.runtimeconfig.dev.json
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\bin\Debug\netcoreapp3.1\Decimal to Hexadecimal.dll
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\bin\Debug\netcoreapp3.1\Decimal to Hexadecimal.pdb
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\obj\Debug\netcoreapp3.1\Decimal to Hexadecimal.csprojAssemblyReference.cache
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\obj\Debug\netcoreapp3.1\Decimal to Hexadecimal.AssemblyInfoInputs.cache
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\obj\Debug\netcoreapp3.1\Decimal to Hexadecimal.AssemblyInfo.cs
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\obj\Debug\netcoreapp3.1\Decimal to Hexadecimal.dll
+C:\Users\LaLaptop\Los Documentitos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.6\Decimal to Hexadecimal\obj\Debug\netcoreapp3.1\Decimal to Hexadecimal.pdb

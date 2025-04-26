@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.2\DivisibleBy5And7\bin\Debug\DivisibleBy5And7.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.2\DivisibleBy5And7\bin\Debug\DivisibleBy5And7.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.2\DivisibleBy5And7\bin\Debug\DivisibleBy5And7.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.2\DivisibleBy5And7\obj\Debug\DivisibleBy5And7.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.2\DivisibleBy5And7\obj\Debug\DivisibleBy5And7.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.2\DivisibleBy5And7\obj\Debug\DivisibleBy5And7.pdb

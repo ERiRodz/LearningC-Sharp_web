@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.8\Read Ten Numbers\bin\Debug\Read Ten Numbers.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.8\Read Ten Numbers\bin\Debug\Read Ten Numbers.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.8\Read Ten Numbers\bin\Debug\Read Ten Numbers.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.8\Read Ten Numbers\obj\Debug\Read Ten Numbers.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.8\Read Ten Numbers\obj\Debug\Read Ten Numbers.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 12\Exercise_12.8\Read Ten Numbers\obj\Debug\Read Ten Numbers.pdb

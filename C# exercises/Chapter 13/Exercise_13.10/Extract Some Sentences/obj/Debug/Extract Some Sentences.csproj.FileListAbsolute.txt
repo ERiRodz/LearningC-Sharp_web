@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.10\Extract Some Sentences\bin\Debug\Extract Some Sentences.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.10\Extract Some Sentences\bin\Debug\Extract Some Sentences.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.10\Extract Some Sentences\bin\Debug\Extract Some Sentences.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.10\Extract Some Sentences\obj\Debug\Extract Some Sentences.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.10\Extract Some Sentences\obj\Debug\Extract Some Sentences.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.10\Extract Some Sentences\obj\Debug\Extract Some Sentences.pdb

@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.5\DigitsToWords(0-9)\obj\Debug\DigitsToWords(0-9).csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.5\DigitsToWords(0-9)\bin\Debug\DigitsToWords(0-9).exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.5\DigitsToWords(0-9)\bin\Debug\DigitsToWords(0-9).exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.5\DigitsToWords(0-9)\bin\Debug\DigitsToWords(0-9).pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.5\DigitsToWords(0-9)\obj\Debug\DigitsToWords(0-9).exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.5\DigitsToWords(0-9)\obj\Debug\DigitsToWords(0-9).pdb

@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.8\Convert to Unicode\bin\Debug\Convert to Unicode.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.8\Convert to Unicode\bin\Debug\Convert to Unicode.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.8\Convert to Unicode\bin\Debug\Convert to Unicode.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.8\Convert to Unicode\obj\Debug\Convert to Unicode.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.8\Convert to Unicode\obj\Debug\Convert to Unicode.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.8\Convert to Unicode\obj\Debug\Convert to Unicode.pdb

@@ -1,0 +1,12 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.8\Binary to Hexadecimal\bin\Debug\Binary to Hexadecimal.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.8\Binary to Hexadecimal\bin\Debug\Binary to Hexadecimal.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.8\Binary to Hexadecimal\bin\Debug\Binary to Hexadecimal.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.8\Binary to Hexadecimal\obj\Debug\Binary to Hexadecimal.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.8\Binary to Hexadecimal\obj\Debug\Binary to Hexadecimal.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.8\Binary to Hexadecimal\obj\Debug\Binary to Hexadecimal.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.9\Binary to Hexadecimal\bin\Debug\Binary to Hexadecimal.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.9\Binary to Hexadecimal\bin\Debug\Binary to Hexadecimal.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.9\Binary to Hexadecimal\bin\Debug\Binary to Hexadecimal.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.9\Binary to Hexadecimal\obj\Debug\Binary to Hexadecimal.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.9\Binary to Hexadecimal\obj\Debug\Binary to Hexadecimal.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.9\Binary to Hexadecimal\obj\Debug\Binary to Hexadecimal.pdb

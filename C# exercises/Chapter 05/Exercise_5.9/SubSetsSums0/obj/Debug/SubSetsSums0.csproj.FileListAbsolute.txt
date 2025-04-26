@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.9\SubSetsSums0\bin\Debug\SubSetsSums0.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.9\SubSetsSums0\bin\Debug\SubSetsSums0.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.9\SubSetsSums0\bin\Debug\SubSetsSums0.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.9\SubSetsSums0\obj\Debug\SubSetsSums0.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.9\SubSetsSums0\obj\Debug\SubSetsSums0.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 05\Exercise_5.9\SubSetsSums0\obj\Debug\SubSetsSums0.pdb

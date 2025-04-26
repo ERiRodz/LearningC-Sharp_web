@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.4\ThirdDigit-InBinary1Or0\obj\Debug\ThirdDigit-InBinary1Or0.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.4\ThirdDigit-InBinary1Or0\bin\Debug\ThirdDigit-InBinary1Or0.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.4\ThirdDigit-InBinary1Or0\bin\Debug\ThirdDigit-InBinary1Or0.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.4\ThirdDigit-InBinary1Or0\bin\Debug\ThirdDigit-InBinary1Or0.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.4\ThirdDigit-InBinary1Or0\obj\Debug\ThirdDigit-InBinary1Or0.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 03\Exercise_3.4\ThirdDigit-InBinary1Or0\obj\Debug\ThirdDigit-InBinary1Or0.pdb

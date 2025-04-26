@@ -1,0 +1,438 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+}
+
+cite {
+  font-size: 12px;
+  line-height: :12px;
+}
+
+kbd {
+  background-color: #a5a9a0;
+  padding: 0 .2%;
+  border: solid;
+}
+
+/*Links in paragraphs.*/
+.link_text {
+  font-weight: bold;
+  text-decoration: none;
+  color: #10183a;
+}
+
+.link_text:hover {
+  color: #EC4E20;
+  text-decoration: underline;
+}
+
+.date-time {
+  text-align: right;
+  font-style: italic;
+}
+
+/*scrollbar width*/
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+
+/*Handle*/
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.smooth {
+  transition: all 0.3s ease-in-out;
+}
+
+#ham-menu {
+  position: fixed; /*Prevents it to pushes down the title.*/
+  left: 8px;
+  top: 8px;
+  width: 50px;
+  height: 50px;
+  background-image: url('../images/ham-menu.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 90%;
+  cursor: pointer;
+}
+
+#ham-menu:hover {
+  background-size: 94%;
+}
+
+#title {
+  font-family: "Arial Black";
+  font-size: 42px;
+  color: rgb(192, 0, 0);
+  text-align: center;
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+}
+
+/*The menu is inside the container, but it looks like if it is in the ham-menu when mobileMode.*/
+#menu {
+  margin: 0 12px;
+  position: fixed; /*Prevents it to pushes down the paper when mobileMode.*/
+  background-color: white;
+}
+
+.mn-btn, .topic-btn {
+  list-style: none;
+  display: block;
+  height: 0px;/*(Initial state) Hidden when mobileMode. Does not applied to topic-btn.*/
+  background-color: #7082A1;
+  width: 175px;
+  line-height: 60px;/*Does not applied to topic-btn.*/
+  text-transform: uppercase;
+  text-align: center;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.mn-btn:hover, .topic-btn:hover {
+  background-color: #AFEEEE	;
+  color: #2F4F4F;
+}
+
+/*Text in every button.*/
+.mn-btn a, .topic-btn button {
+  display: block;/*Spreads the anchor over the entire button.[Needs a width of 100%]*/
+  width: 100%;/*Needed for spreading it.*/
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 22px;
+  color: white;
+  cursor: pointer;
+}
+
+#paper {
+  margin: 0 auto;
+  max-width: 615px;
+  height: calc(100vh - 105px);
+  overflow: auto;
+}
+
+#topic-list{
+  list-style: none;
+  margin: 0 18px 0 12px;
+}
+
+.topic-name {
+  font-family: "Arial Black";
+  font-size: 32px;
+  line-height: 64px;
+  min-width: 88%;
+}
+
+.sub-topic-name{
+  font-family: "Arial Black";
+  font-size: 24px;
+  line-height: 32px;
+  min-width: 80%;
+}
+
+#topic-content, #exercise-list {
+  margin: 0 0 0 24px;
+  list-style: none;
+}
+
+#topic-concept {
+  list-style-type: decimal;
+  margin: 0 0 0 22px;
+}
+
+.content, .content-list, .concept, .definition, .chapter_number, .chapter_name {
+  font-family: "Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.content img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 99%;
+}
+
+table {
+  font-family: Arial;
+  margin: auto;
+  background-color: #efefef;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 1%;
+  font-size: 75%;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+tr:hover {
+  background-color: lightskyblue;
+}
+
+.Family, .Size, .Capacity {
+  text-align: center;
+}
+
+.Primitive, {
+  width: 60px;
+}
+
+.Data, .Size{
+  width: 50px;
+}
+
+.Literals {
+  width: 45px;
+}
+
+.Family, .Capacity  {
+  width: 35px;
+}
+
+.Type, .Category, .Operators, .Description {
+  width: 20%;
+}
+
+.containerOfExercises {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chapter {
+  display: block;
+  height: 36px;
+}
+
+.chapter_number, .chapter_name {
+  display: inline-block;
+}
+
+.chapter_name {
+  font-weight: normal;
+}
+
+.content {
+  text-indent: 40px;
+  text-align: justify;
+}
+
+.content-list {
+  margin-left: 25px;
+  text-indent: 0px;
+  text-align: left;
+}
+
+.keys {
+  line-height: 36px;
+  list-style: disc;
+}
+
+.topic-btn {
+  min-width: 180px;
+  height: 40px;
+  line-height: 40px;
+  margin: 8px auto;
+  border: solid;
+  border-radius: 20px;
+  background-color: teal;
+}
+
+.exercise-btn {
+  border: none;
+  height: 40px;
+  line-height: 40px;
+  background-color: transparent;
+}
+
+#exercisePanel {
+  margin: 0 auto;
+  max-width: 615px;
+  height: calc(100vh - 105px);
+  overflow: auto;
+  background-color: rgba(40, 42, 54, 0.99);
+}
+
+#close-btn {
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin: 5px 0 0 calc(100% - 50px);
+  background-image: url('../images/close-btn.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  cursor: pointer
+}
+
+#close-btn:hover {
+  background-image: url('../images/close-btnhover.png');
+}
+
+/*Styling the solution code.
+Properties counter-reset, -increment, and content are for
+number each line of code. The number goes inside the ::before
+p-seudo element (box).
+*/
+.solution-code {
+  margin: 18px;
+  list-style: none;
+  counter-reset: number;
+  white-space: nowrap;
+}
+
+.solution-code li:hover {
+  background-color: lightslategray;
+}
+
+.solution-code li::before {
+  display: inline-block;
+  width: 36px;
+  color: #4A85A8;
+  counter-increment: number;
+  content: counter(number);
+}
+
+#mn-exercise div {
+  width: 160px;
+  margin: 0 auto;
+  line-height: 40px;
+  background-color: lightslategray;
+  border: solid black;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+}
+
+#mn-exercise div:hover {
+  background-color: orange;
+}
+
+#mn-exercise div:active {/*Check it out*/
+  background-color: #3e8e41;
+  transform: translateY(4px);
+}
+
+#mn-exercise a {
+  display: block;/*Spreads the anchor over the entire button.[Needs a width of 100%]*/
+  width: 100%;/*Needed for spreading it.*/
+  text-decoration: none;
+  color: black;
+}
+
+#bottom-paper, #bottom-paper-terminology {
+  display: flex;
+  margin: 15px 0 0 70%;
+  max-width: 137px;
+}
+
+#bottom-paper-terminology {
+  max-width: 40px;
+}
+
+#bottom-paper a, #bottom-paper-terminology a {
+  text-decoration: none;
+  color: rgb(192, 0 , 0);
+  display: inline-block;
+  height: 20px;
+  margin: 0 6px;
+  font-size: 19px;
+  font-family: Arial;
+  max-width: 74px;
+}
+
+#bottom-paper a:hover, #bottom-paper-terminology a:hover {
+  color: #800000;
+  font-weight: bold;
+}
+
+#author {
+  margin: -16.8px 0 0 3%;
+  width: 200px;
+  color: gray;
+}
+
+@media only screen and (min-width: 1025px) {
+  #ham-menu {
+    /*Ham-menu is hidden on desktop mode. This method makes hide/show process smoothly.*/
+    width: 0px;
+    height: 0px;
+    background-size: 0%;
+  }
+
+  #title {
+    /*To have the text centered, width and margin needs to be set up like here.*/
+    width: 100%;
+    margin: 0 auto;
+    font-size: 52px;
+  }
+
+  .container {
+    display: flex;
+    width: 1000px;
+    height: calc(100vh - 120px);
+  }
+
+  #menu {
+    position: static;/*Positioned to its normal flow.*/
+  }
+
+  .mn-btn {
+    /*Always visible in desktop mode.*/
+    height: 60px;
+    margin: 3px 0;
+  }
+
+  #paper {
+    height: 100%;
+  }
+
+  #topic-list{
+    margin-left: 0px;
+  }
+
+  .content {
+    word-spacing: 1px;
+  }
+
+  #exercisePanel {
+    min-width: 620px;
+    height: 100%;
+  }
+
+  #bottom-paper, #bottom-paper-terminology {
+    display: flex;
+    margin: 0 12px;
+    padding-top: calc(100vh - 140px);/*I don't have a clue why minus 140px.*/
+  }
+
+  #author {
+    margin: 15px auto 0;
+    line-height: 28px;
+    width: 1000px;
+    border-top: 3px dotted gray;
+    transition: none; /*None trasition looks better when Desktop.*/
+  }
+
+}

@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.5\Increasing Sequence\bin\Debug\Increasing Sequence.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.5\Increasing Sequence\bin\Debug\Increasing Sequence.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.5\Increasing Sequence\bin\Debug\Increasing Sequence.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.5\Increasing Sequence\obj\Debug\Increasing Sequence.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.5\Increasing Sequence\obj\Debug\Increasing Sequence.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 07\Exercise_7.5\Increasing Sequence\obj\Debug\Increasing Sequence.pdb

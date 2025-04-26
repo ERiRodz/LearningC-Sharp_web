@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Learning C#</title>
+    <link href="../../2_style/style.css" type="text/css" rel="stylesheet">
+    <link href="../../2_style/style-chp.css" type="text/css" rel="stylesheet">
+  </head>
+  <body onresize="autoMenu()">
+
+    <div id="ham-menu" class="smooth"></div>
+    <h1 id="title" class="smooth">
+      <div id="chapter#">Chapter 7</div><div class="chapter_title">: Arrays</div>
+    </h1>
+
+    <div id="container" class="container smooth">
+      <!--Don't use menu-panels.js, use chp-info.js-->
+      <ul id="menu"></ul>
+
+      <div id="paper" class="smooth">
+        <ul id="topic-list">
+          <li class="topic"><h2 class="topic-name">Arrays</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">Arrays Arrays Arrays Arrays Arrays Arrays Arrays Arrays</p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Algorithm "selection sort"</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">
+                  Selection sort is a simple sorting algorithm. This sorting algorithm is an in-place comparison-based algorithm in which the list is divided into two parts, the sorted part at the left end and the unsorted part at the right end. Initially, the sorted part is empty and the unsorted part is the entire list.<br />
+                  <br />
+                  The smallest element is selected from the unsorted array and swapped with the leftmost element, and that element becomes a part of the sorted array. This process continues moving unsorted array boundary by one element to the right.<br />
+                  <br />
+                  This algorithm is not suitable for large data sets as its average and worst case complexities are of Ο(n<sup>2</sup>), where <b>n</b> is the number of items.<br />
+                  <br />
+                </p>
+              </li>
+              <li>
+                <h3 class="sub-topic-name">How Selection Sort Works?</h3>
+                <p class="content" style="text-indent: 0px;">
+                  Consider the following depicted array as an example.<br />
+                  <img src="../../images/chp7/unsorted_array.jpg" alt="Unsorted array"><br />
+                  For the first position in the sorted list, the whole list is scanned sequentially. The first position where 14 is stored presently, we search the whole list and find that 10 is the lowest value.<br />
+                  <img src="../../images/chp7/selection_sort_1.jpg" atl="Selection Sort 1"><br />
+                  So we replace 14 with 10. After one iteration 10, which happens to be the minimum value in the list, appears in the first position of the sorted list.<br />
+                  <img src="../../images/chp7/selection_sort_2.jpg" atl="Selection Sort 2"><br />
+                  For the second position, where 33 is residing, we start scanning the rest of the list in a linear manner.<br />
+                  <img src="../../images/chp7/selection_sort_3.jpg" atl="Selection Sort 3"><br />
+                  We find that 14 is the second lowest value in the list and it should appear at the second place. We swap these values.<br />
+                  <img src="../../images/chp7/selection_sort_4.jpg" atl="Selection Sort 4"><br />
+                  After two iterations, two least values are positioned at the beginning in a sorted manner.<br />
+                  <img src="../../images/chp7/selection_sort_5.jpg" atl="Selection Sort 5"><br />
+                  The same process is applied to the rest of the items in the array. Following is a pictorial depiction of the entire sorting process −<br />
+                  <img src="../../images/chp7/selection_sort.jpg" alt="Selection Sort"><br />
+                  <cite>Tutorials Point: Data Structure and Algorithms Selection Sort (2020.01.08)<br />Retrieved from <a href="https://www.tutorialspoint.com/data_structures_algorithms/selection_sort_algorithm.htm" target="_blank">www.tutorialspoint.com</a></cite>
+                </p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Algorithm "binary search"</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">
+                  Given a sorted array arr[] of n elements, write a function to search a given element x in arr[].<br />
+                  <br />
+                  A simple approach is to do linear search.The time complexity of above algorithm is O(n). Another approach to perform the same task is using Binary Search.<br />
+                  <br />
+                  Binary Search: Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half. Otherwise narrow it to the upper half. Repeatedly check until the value is found or the interval is empty.<br />
+                  <br />
+                  Example:<br />
+                  <img src="../../images/chp7/Binary-Search.png" alt="Binary Search"><br />
+                  <cite>GeeksforGeeks (2020.01.30)<br />Retrieved from <a href="https://www.geeksforgeeks.org/binary-search/" target="_blank">www.geeksforgeeks.org</a><cite>
+                </p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Quick Sort Algorithm</h2>
+            <ul id="topic-content">
+              <li>
+                <p class="content">
+                  Like Merge Sort, QuickSort is a Divide and Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quickSort that pick pivot in different ways.<br />
+                  <br />
+                  Example:<br />
+                  <img src="../../images/chp7/QuickSort2.png" alt="Quick Sort"><br />
+                </p>
+              </li>
+              <li>
+                <p class="content">
+                  <ol class="content-list">
+                    <li>Always pick first element as pivot.</li>
+                    <li>Always pick last element as pivot (se example)</li>
+                    <li>Pick a specific element as pivot.</li>
+                    <li>Pick a random element as pivot.</li>
+                  </ol>
+                </p>
+              </li>
+              <li>
+                <p class="content">
+                  <br />
+                  <cite>GeeksforGeeks (2020.02.01)<br />Retrieved from <a href="https://www.geeksforgeeks.org/quick-sort/" target="_blank">www.geeksforgeeks.org</a><cite>
+                </p>
+              </li>
+            </ul>
+          </li>
+          <li class="topic"><h2 class="topic-name">Exercises</h2>
+            <ul id="topic-content" class="containerOfExercises">
+              <li class="topic-btn" onclick="exerActive(0)"><button class="exercise-btn" id="exercise-btn_7.4" name="7" value="4">Exercise 7.4</button></li>
+              <li class="topic-btn" onclick="exerActive(1)"><button class="exercise-btn" id="exercise-btn_7.5" name="7" value="5">Exercise 7.5</button></li>
+              <li class="topic-btn" onclick="exerActive(2)"><button class="exercise-btn" id="exercise-btn_7.8" name="7" value="8">Exercise 7.8</button></li>
+              <li class="topic-btn" onclick="exerActive(3)"><button class="exercise-btn" id="exercise-btn_7.12" name="7" value="12">Exercise 7.12</button></li>
+              <li class="topic-btn" onclick="exerActive(4)"><button class="exercise-btn" id="exercise-btn_7.15" name="7" value="15">Exercise 7.15</button></li>
+              <li class="topic-btn" onclick="exerActive(5)"><button class="exercise-btn" id="exercise-btn_7.16" name="7" value="16">Exercise 7.16</button></li>
+              <li class="topic-btn" onclick="exerActive(6)"><button class="exercise-btn" id="exercise-btn_7.17" name="7" value="17">Exercise 7.17</button></li>
+              <li class="topic-btn" onclick="exerActive(7)"><button class="exercise-btn" id="exercise-btn_7.18" name="7" value="18">Exercise 7.18</button></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div id="bottom-paper">
+        <a href="chp6.html">Previous</a>
+        <a href="chp8.html">Next</a>
+      </div>
+
+    </div>
+
+    <div id="author" class="smooth">Eric L. Rivera Rodríguez</div>
+
+  </body>
+
+  <script src="../../3_js/main.js"></script>
+  <script src="../../3_js/chp-info.js"></script>
+  <script src="../../3_js/exercise-info.js"></script>
+  <script src="../../3_js/exercise-panel.js"></script>
+
+</html>

@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 11\Exercise_11.8\Ten Cats Objects\bin\Debug\Ten Cats Objects.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 11\Exercise_11.8\Ten Cats Objects\bin\Debug\Ten Cats Objects.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 11\Exercise_11.8\Ten Cats Objects\bin\Debug\Ten Cats Objects.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 11\Exercise_11.8\Ten Cats Objects\obj\Debug\Ten Cats Objects.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 11\Exercise_11.8\Ten Cats Objects\obj\Debug\Ten Cats Objects.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 11\Exercise_11.8\Ten Cats Objects\obj\Debug\Ten Cats Objects.pdb

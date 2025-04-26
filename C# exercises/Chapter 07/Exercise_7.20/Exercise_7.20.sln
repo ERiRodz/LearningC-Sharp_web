@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subset of sum S", "Subset of sum S\Subset of sum S.csproj", "{C3E8C1AB-7E54-4873-B30C-1C1C386F740C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3E8C1AB-7E54-4873-B30C-1C1C386F740C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E8C1AB-7E54-4873-B30C-1C1C386F740C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E8C1AB-7E54-4873-B30C-1C1C386F740C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E8C1AB-7E54-4873-B30C-1C1C386F740C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5DD02C-08A7-419D-B5C5-36AC3FE897A1}
+	EndGlobalSection
+EndGlobal

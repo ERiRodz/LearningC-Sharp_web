@@ -1,0 +1,6 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\ThreeNumThreeCols\bin\Debug\ThreeNumThreeCols.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\ThreeNumThreeCols\bin\Debug\ThreeNumThreeCols.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\ThreeNumThreeCols\bin\Debug\ThreeNumThreeCols.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\ThreeNumThreeCols\obj\Debug\ThreeNumThreeCols.csprojAssemblyReference.cache
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\ThreeNumThreeCols\obj\Debug\ThreeNumThreeCols.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 04\ThreeNumThreeCols\obj\Debug\ThreeNumThreeCols.pdb

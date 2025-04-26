@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.6\Uppercase\bin\Debug\Uppercase.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.6\Uppercase\bin\Debug\Uppercase.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.6\Uppercase\bin\Debug\Uppercase.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.6\Uppercase\obj\Debug\Uppercase.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.6\Uppercase\obj\Debug\Uppercase.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 13\Exercise_13.6\Uppercase\obj\Debug\Uppercase.pdb

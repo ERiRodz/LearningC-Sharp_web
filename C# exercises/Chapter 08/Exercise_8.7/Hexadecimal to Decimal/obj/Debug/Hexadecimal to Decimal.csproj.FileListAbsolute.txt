@@ -1,0 +1,6 @@
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.7\Hexadecimal to Decimal\bin\Debug\Hexadecimal to Decimal.exe.config
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.7\Hexadecimal to Decimal\bin\Debug\Hexadecimal to Decimal.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.7\Hexadecimal to Decimal\bin\Debug\Hexadecimal to Decimal.pdb
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.7\Hexadecimal to Decimal\obj\Debug\Hexadecimal to Decimal.csprojAssemblyReference.cache
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.7\Hexadecimal to Decimal\obj\Debug\Hexadecimal to Decimal.exe
+C:\Users\2700x\Los Documentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 08\Exercise_8.7\Hexadecimal to Decimal\obj\Debug\Hexadecimal to Decimal.pdb

@@ -1,0 +1,5 @@
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.8\PrintDateAndTime\bin\Debug\PrintDateAndTime.exe.config
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.8\PrintDateAndTime\bin\Debug\PrintDateAndTime.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.8\PrintDateAndTime\bin\Debug\PrintDateAndTime.pdb
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.8\PrintDateAndTime\obj\Debug\PrintDateAndTime.exe
+C:\Users\Roja\Los Dosumentos I\Dropbox\Los Códigos\Trabajos V.2\04 - Learning C#\C# exercises\Chapter 01\Exercise_1.8\PrintDateAndTime\obj\Debug\PrintDateAndTime.pdb
